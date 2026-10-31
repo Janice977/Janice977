@@ -31,7 +31,19 @@ Meu interesse é conectar **segurança, privacidade, governança e IA** à resol
 Laboratório voltado ao estudo de monitoramento de segurança, investigação inicial de eventos e documentação de atividades em um cenário introdutório de SOC N1.
 
 **Objetivo:** desenvolver raciocínio analítico e familiaridade com rotinas de um centro de operações de segurança.
+### 🤖 [Adaptive RAG — Contratações Públicas do RJ](https://github.com/Janice977/adaptive-rag-contratacoes-publicas-rj)
 
+**Projeto de Inteligência Artificial Generativa desenvolvido em equipe durante a Residência em IA — PUC-Rio / Instituto ECOA.**
+
+Sistema que utiliza técnicas de **Adaptive RAG (Retrieval-Augmented Generation)** para responder a perguntas em linguagem natural sobre contratações públicas do Estado do Rio de Janeiro, combinando recuperação documental, consultas estruturadas e evidências verificáveis.
+
+**Tecnologias do projeto:** Python, FAISS, BM25, LLMs, embeddings, RRF, Gradio e pytest.
+
+**Minha contribuição:** participação na coleta, organização e versionamento das bases de conhecimento utilizadas no projeto.
+
+**Destaques:** aplicação prática de IA generativa, recuperação de informação, tratamento de documentos e desenvolvimento colaborativo.
+
+🔗 [Acessar repositório e documentação técnica](https://github.com/Janice977/adaptive-rag-contratacoes-publicas-rj)
 ###  Assistente RAG Corporativo — VendeFácil (mini desafio)
 
 Projeto de aprendizagem sobre o uso de **Retrieval-Augmented Generation (RAG)** para apoiar a consulta a informações em um contexto corporativo.
